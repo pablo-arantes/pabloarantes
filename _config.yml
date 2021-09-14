@@ -8,8 +8,8 @@ description: > # this means to ignore newlines until "url:"
   Research Fellow at University of California Riverside - Work interests mostly related to the simulation of biomolecular systems.
 footer_text: >
 
-url: https://pablo-arantes.github.io/pabloarantes/
-baseurl: /
+url: https://pablo-arantes.github.io/
+baseurl: pabloarantes
 last_updated: true
 
 # -----------------------------------------------------------------------------
