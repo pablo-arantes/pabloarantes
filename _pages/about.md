@@ -2,11 +2,11 @@
 layout: about
 title: About
 permalink: /
-description: I am a PhD Researcher in the Department of Latin American Studies at Leiden University.
+description: Research Fellow at University of California Riverside - Work interests mostly related to the simulation of biomolecular systems.
 
 profile:
   align: right
-  image: carlacisternasg.jpg
+  image: pablo.jpg
   address: >
     <p></p>
     <p></p>
@@ -16,8 +16,4 @@ news: true
 social: true
 ---
 
-<p align="justify">I am a PhD Researcher in the Department of Latin American Studies at the Faculty of Humanities at <a href="https://www.universiteitleiden.nl/" target="_blank">Leiden University</a>, Netherlands. I am also a Lecturer in the School of Business at the <a href="https://www.umayor.cl/um/facultades/humanidades/10000" target="_blank">Faculty of Humanities</a> at the Universidad Mayor, Chile. </p>
-
-<p align="justify">I hold an MA (1st) in Political Science from the <a href="http://www.inap.uchile.cl/" target="_blank">Institute of Public Affairs</a>  at the Universidad de Chile. Moreover, I earned a BA (1st) and a BPS (1st) in Public Administration from the Universidad de Santiago.</p>
-
-<p align="justify">I am interested in technocracy in Latin America, public policies and legislative processes, social network analysis, and mixed methods. My doctoral project is supervised by <a href="https://www.universiteitleiden.nl/en/staffmembers/patricio-silva#tab-1" target="_blank">Professor Patricio Silva</a> and focuses on the relationship between technocracy, democracy and sociopolitical conflicts in Chile.</p>
+<p align="justify">My name is Pablo Ricardo Arantes, and I am a research scientist at the University of California Riverside, working in the field of biophysics (<a href="https://palermolab.com/people/">). My research at the University of California focuses on molecular simulations of emerging genome editing technologies based on the CRISPR-Cas systems that was recently felicitated by the Nobel Prize in Chemistry 2020. To help understanding of these technologies, I have recently published the first computational study of the CRISPR-Cas12 system (<a href="https://pubs.acs.org/doi/10.1021/acs.jcim.0c00929">). I hold extensive expertise in computational biophysics and knowledge in state-of-art computational methods that have been proven instrumental in delving deep into biological function. During my PhD in Cell and Molecular Biology, I worked with different glycoproteins and glycoconjugates (Arantes et al., 2014), such as Antithrombin (Arantes et al., 2017). Also during my PhD, I worked in a project that developed a new parameter set for MD simulations of chalcones and flavonoids (Arantes et al., 2019) main scaffolds under GROMOS force field. </p>
