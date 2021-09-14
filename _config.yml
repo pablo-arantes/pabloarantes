@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Carla Cisternas
-email: c.g.cisternas.guasch@hum.leidenuniv.nl
+title: Pablo Ricardo Arantes
+email: pabloa@ucr.edu
 description: > # this means to ignore newlines until "url:"
-  I am a PhD Researcher in the Department of Latin American Studies at the Faculty of Humanities at Leiden University, Netherlands.
+  Research Fellow at University of California Riverside - Work interests mostly related to the simulation of biomolecular systems.
 footer_text: >
 
 url: https://carlacisternas.com
@@ -33,21 +33,21 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: carlacisternasg
-twitter_username: carlacisternasg
+github_username: pablo-arantes
+twitter_username: pablitoarantes
 linkedin_username: # 
 scholar_userid: ArIMp5YAAAAJ
-orcid_id: 0000-0001-7948-6194
+#orcid_id: 0000-0001-7948-6194
 medium_username: # 
 quora_username: # 
 publons_id: # 
-research_gate_profile: Carla_Cisternas3
+research_gate_profile: Pablo-Arantes
 blogger_url: # 
 
 contact_note: >
   Please email me to get in touch.
 
-google_analytics: 'UA-176052399-1'
+google_analytics: ''
 
 # -----------------------------------------------------------------------------
 # Blog
